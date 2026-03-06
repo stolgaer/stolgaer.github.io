@@ -313,3 +313,7 @@ section,
 footer {
   background: #ffffff !important;
 }
+
+:root {
+  color-scheme: light;
+}
