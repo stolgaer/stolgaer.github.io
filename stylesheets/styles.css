@@ -304,3 +304,12 @@ header h1 {
 html, body {
   background-color: #ffffff;
 }
+
+html,
+body,
+.wrapper,
+header,
+section,
+footer {
+  background: #ffffff !important;
+}
