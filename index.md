@@ -1,14 +1,3 @@
-# S. Tolga Er
-
-![Logo](https://via.placeholder.com/140x140.png?text=Photo)
-
-[CV](cv.pdf)  
-[Research Resources](#)  
-
-[Google Scholar](#)  
-[GitHub Profile](https://github.com/stolgaer)  
-[LinkedIn](#)
-
 ### Welcome to my website
 
 I am a PhD candidate in Economics at [University Name]. My research interests include applied microeconomics, industrial organization, and digital markets.
