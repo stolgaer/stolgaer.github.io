@@ -271,3 +271,16 @@ footer {
 header h1 {
   color: #8B0000;
 }
+
+.view {
+  margin: 0;
+}
+
+.view a {
+  color: #8B0000;
+}
+
+.view a:hover {
+  color: #8B0000;
+  text-decoration: underline;
+}
