@@ -313,3 +313,13 @@ section,
 footer {
   background: #ffffff !important;
 }
+
+footer a {
+  color: #8B0000;
+}
+
+footer a:hover {
+  color: #8B0000;
+  font-weight: bold;
+  text-decoration: none;
+}
