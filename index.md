@@ -1,53 +1,72 @@
-### Welcome to my website
+<div class="site-wrapper">
+  <aside class="sidebar">
+    <h1>S. Tolga Er</h1>
 
-I am a PhD candidate in Economics at [University Name]. My research interests include applied microeconomics, industrial organization, and digital markets.
+    <img src="https://via.placeholder.com/160x160.png?text=Photo" alt="Profile photo" class="profile-pic">
 
-Previously, I worked as a research assistant at [Institution Name]. I hold an MSc in Economics from [University Name] and a BA/BSc in [Subject] from [University Name].
+    <p class="position">PhD Candidate in Economics</p>
 
-* * *
+    <p><a href="cv.pdf">CV</a></p>
+    <p><a href="#">Research Resources</a></p>
 
-### Working Papers
+    <p><a href="#">Google Scholar</a></p>
+    <p><a href="https://github.com/stolgaer">GitHub Profile</a></p>
+    <p><a href="#">LinkedIn</a></p>
+  </aside>
 
-#### Paper Title One
+  <main class="main-content">
+    <h3>Welcome to my website</h3>
 
-with Coauthor Name  
-Working paper (March 2026)  
-Materials: [draft](#) / [slides](#)
+    <p>
+      I am a PhD candidate in Economics at [University Name]. My research interests include
+      applied microeconomics, industrial organization, and digital markets.
+    </p>
 
-Abstract
+    <p>
+      Previously, I worked as a research assistant at [Institution Name]. I hold an MSc in Economics
+      from [University Name] and a BSc in [Subject] from [University Name].
+    </p>
 
-This paper studies a broad question in applied microeconomics. It develops a simple framework, presents empirical evidence, and discusses implications for policy and market design.
+    <hr>
 
-* * *
+    <h3>Working Papers</h3>
 
-#### Paper Title Two
+    <h4>Paper Title One</h4>
+    <p>with Coauthor Name<br>
+    Working paper (March 2026)<br>
+    Materials: <a href="#">draft</a> / <a href="#">slides</a></p>
 
-with Coauthor Name  
-Working paper (January 2026)  
-Materials: [draft](#)
+    <p>
+      <strong>Abstract</strong><br>
+      This paper studies a broad question in applied microeconomics. It develops a simple framework,
+      presents empirical evidence, and discusses implications for policy and market design.
+    </p>
 
-Abstract
+    <hr>
 
-This paper examines how firms and consumers respond to changing incentives in digital or regulated markets. The analysis combines theory and evidence to explain observed behavior and policy trade-offs.
+    <h4>Paper Title Two</h4>
+    <p>with Coauthor Name<br>
+    Working paper (January 2026)<br>
+    Materials: <a href="#">draft</a></p>
 
-* * *
+    <p>
+      <strong>Abstract</strong><br>
+      This paper examines how firms and consumers respond to changing incentives in digital or regulated
+      markets. The analysis combines theory and evidence to explain observed behavior and policy trade-offs.
+    </p>
 
-### Other Research
+    <hr>
 
-#### Project Title One
+    <h3>Other Research</h3>
 
-Short description of the project.
+    <h4>Project Title One</h4>
+    <p>Short description of the project.</p>
 
-#### Project Title Two
+    <h4>Project Title Two</h4>
+    <p>Short description of the project.</p>
 
-Short description of the project.
+    <hr>
 
-* * *
-
-### Teaching / Other Writing
-
-You can add teaching experience, presentations, blog posts, or application resources here.
-
-* * *
-
-Hosted on GitHub Pages
+    <p>Hosted on GitHub Pages</p>
+  </main>
+</div>
