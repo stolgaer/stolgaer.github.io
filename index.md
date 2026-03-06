@@ -1,10 +1,12 @@
 ---
+layout: null
 ---
 
 <link rel="stylesheet" href="/style.css">
 
 <div class="page">
   <div class="sidebar">
+    <h1>S. Tolga Er</h1>
 
     <img src="https://via.placeholder.com/160x160.png?text=Photo" alt="Profile photo">
 
@@ -45,34 +47,5 @@
       This paper studies a broad question in applied microeconomics. It develops a simple framework,
       presents empirical evidence, and discusses implications for policy and market design.
     </p>
-
-    <hr>
-
-    <h4>Paper Title Two</h4>
-    <p>
-      with Coauthor Name<br>
-      Working paper (January 2026)<br>
-      Materials: <a href="#">draft</a>
-    </p>
-
-    <p>
-      <strong>Abstract</strong><br>
-      This paper examines how firms and consumers respond to changing incentives in digital or regulated
-      markets. The analysis combines theory and evidence to explain observed behavior and policy trade-offs.
-    </p>
-
-    <hr>
-
-    <h3>Other Research</h3>
-
-    <h4>Project Title One</h4>
-    <p>Short description of the project.</p>
-
-    <h4>Project Title Two</h4>
-    <p>Short description of the project.</p>
-
-    <hr>
-
-    <p>Hosted on GitHub Pages</p>
   </div>
 </div>
