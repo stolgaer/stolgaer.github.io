@@ -290,3 +290,17 @@ header h1 {
   color: #8B0000;
   transition: font-weight 0.15s ease;
 }
+
+.view a {
+  color: #8B0000 !important;
+}
+
+.view a:hover {
+  color: #8B0000 !important;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+html, body {
+  background-color: #ffffff;
+}
