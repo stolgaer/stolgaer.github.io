@@ -323,3 +323,13 @@ footer a:hover {
   font-weight: bold;
   text-decoration: none;
 }
+
+details summary {
+  color: #8B0000;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+details summary:hover {
+  font-weight: bold;
+}
