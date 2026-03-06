@@ -1,3 +1,11 @@
 title: S. Tolga Er
-description: Personal academic website
+description: PhD Candidate in Economics
+
 theme: jekyll-theme-minimal
+
+logo: https://via.placeholder.com/140x140.png?text=Photo
+
+show_downloads: false
+
+github:
+  is_project_page: false
