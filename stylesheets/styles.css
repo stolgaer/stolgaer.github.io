@@ -333,3 +333,7 @@ details summary {
 details summary:hover {
   font-weight: bold;
 }
+
+details p {
+  margin-top: 0;
+}
