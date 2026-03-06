@@ -285,3 +285,8 @@ header h1 {
   text-decoration: none;
   font-weight: bold;
 }
+
+.view a {
+  color: #8B0000;
+  transition: font-weight 0.15s ease;
+}
