@@ -341,3 +341,11 @@ details {
 details p {
   margin: 0;
 }
+
+.view a {
+  transition: opacity 0.2s ease;
+}
+
+.view a:hover {
+  opacity: 0.85;
+}
