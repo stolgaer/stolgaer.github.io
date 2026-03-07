@@ -342,10 +342,11 @@ details p {
   margin: 0;
 }
 
-.view a {
-  transition: opacity 0.2s ease;
+a {
+  transition: opacity 0.2s ease, font-weight 0.2s ease;
 }
 
-.view a:hover {
-  opacity: 0.85;
+a:hover {
+  font-weight: 600;
+  opacity: 0.9;
 }
