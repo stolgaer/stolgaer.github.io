@@ -343,7 +343,7 @@ details p {
 }
 
 a {
-  transition: opacity 0.2s ease, font-weight 0.2s ease;
+  transition: opacity 0.2s ease;
 }
 
 a:hover {
