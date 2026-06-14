@@ -350,3 +350,67 @@ a:hover {
   font-weight: bold;
   opacity: 0.9;
 }
+
+/* Research category styling */
+
+.research-category {
+  margin: 28px 0 34px 0;
+  padding: 22px 24px;
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
+  background: #ffffff;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.04);
+}
+
+.research-category h3 {
+  margin-top: 0;
+  margin-bottom: 18px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #eeeeee;
+  font-size: 1.25em;
+  color: #222222;
+}
+
+.paper {
+  margin-bottom: 22px;
+}
+
+.paper:last-child {
+  margin-bottom: 0;
+}
+
+.paper p {
+  margin-bottom: 8px;
+}
+
+.paper strong {
+  color: #111111;
+}
+
+details {
+  margin-top: 8px;
+  padding: 10px 12px;
+  border-left: 3px solid #d1d5db;
+  background: #fafafa;
+  border-radius: 6px;
+}
+
+summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: #444444;
+}
+
+details p {
+  margin-top: 10px;
+  margin-bottom: 0;
+  line-height: 1.55;
+}
+
+.paper a {
+  text-decoration: none;
+}
+
+.paper a:hover {
+  text-decoration: underline;
+}
