@@ -5,7 +5,8 @@ Static HTML and CSS website hosted on GitHub Pages at https://stolgaer.com/.
 ## Pages
 
 - `index.html`: biography and the three latest updates.
-- `work-in-progress/index.html`: four working papers, with available abstracts shown openly and PNG image placeholders.
+- `working-papers/index.html`: the AI-related corporate name changes working paper with its open abstract and original figure, followed by three text-only entries under Work in progress.
+- `work-in-progress/index.html`: redirects the previous page address to Working papers.
 - `publications/index.html`: seven publications in the original website order, without topic headings.
 - `teaching/index.html`: tutorials and thesis advisor experience, based on `personal/academic_cv.pdf` and author updates.
 - `cv/index.html`: embedded CV with direct open and download links.
@@ -25,8 +26,9 @@ Icon sources and notices are documented in `assets/icons/README.md`.
 
 - Add new updates at the top of the list in `index.html`; keep three entries.
 - Keep paper titles, coauthors, publication details, abstracts, and links together in each article.
-- The current source supplies an abstract for the AI-related corporate name changes working paper only. Add the other abstracts when available.
-- To add a research image, replace that paper's `figure.paper-image-placeholder` with an `img.paper-image` using the PNG's path and meaningful alt text.
+- The AI-related corporate name changes working paper has an open abstract. Work in progress entries are listed without images.
+- `images/ai-active-inactive-returns.png` is the original embedded Figure 2 from `papers/ai_returns.pdf` (PDF page 28), comparing AI-active and AI-inactive firms. The figure links to the full-size PNG.
+- To add a working paper image, use `figure.paper-figure` with an `img.paper-image`, intrinsic dimensions, and meaningful alt text.
 - Replace `personal/academic_cv.pdf` to update both the embedded CV and the download.
 - Preserve the Google and Facebook verification meta tags in the homepage.
 - The survey thank-you page in `helloworld/` and its Meta Pixel are unchanged.
