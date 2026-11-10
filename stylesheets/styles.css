@@ -96,6 +96,12 @@ small { font-size: 11px; }
 .paper-text { min-width: 0; }
 .abstract h3 { margin: 18px 0 6px; color: var(--text); font-size: 14px; }
 .abstract p { margin-bottom: 0; }
+.work-paper .paper-text > h2,
+.work-paper .paper-meta,
+.work-paper .abstract h3,
+.work-paper .abstract p,
+.research-paper .paper-text > h3,
+.research-paper .paper-meta { margin: 0; }
 
 .paper-figure { margin: 0; min-width: 0; }
 .paper-figure > a { display: block; }
