@@ -24,7 +24,7 @@ body {
   grid-template-columns: 240px minmax(0, 1fr);
   gap: 25px;
   width: 100%;
-  max-width: 1100px;
+  max-width: 1017.5px;
   margin: 0 auto;
   align-items: start;
 }
