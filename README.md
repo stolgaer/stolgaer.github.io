@@ -13,6 +13,14 @@ Static HTML and CSS website hosted on GitHub Pages at https://stolgaer.com/.
 
 The same photo, navigation, profile links, and outer margins appear on all five pages. Main navigation links are repeated in each HTML file so the site works without JavaScript or a build step. If changing navigation, update all five pages.
 
+## Compact layout
+
+At viewport widths of 900px or less, and on touch devices, the sidebar moves above the content. A boxed three-line menu uses native HTML details/summary to reveal the five page links. The photo, site name, and page heading share the left edge. Academic and professional profiles use a row of local SVG icons with accessible link names in this layout; desktop retains text labels.
+
+The desktop column gap is 25px (17.5px on the intermediate layout). The hosting credit is a footer inside the right-hand content column on every page. All pages use the same versioned stylesheet URL to avoid stale CSS after layout revisions.
+
+Icon sources and notices are documented in `assets/icons/README.md`.
+
 ## Content maintenance
 
 - Add new updates at the top of the list in `index.html`; keep three entries.
