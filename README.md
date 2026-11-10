@@ -7,7 +7,7 @@ Static HTML and CSS website hosted on GitHub Pages at https://stolgaer.com/.
 - `index.html`: biography and the three latest updates.
 - `work-in-progress/index.html`: four working papers, with available abstracts shown openly and PNG image placeholders.
 - `publications/index.html`: seven publications in the original website order, without topic headings.
-- `teaching/index.html`: tutorials and thesis supervision, based on `personal/academic_cv.pdf`.
+- `teaching/index.html`: tutorials and thesis advisor experience, based on `personal/academic_cv.pdf` and author updates.
 - `cv/index.html`: embedded CV with direct open and download links.
 - `stylesheets/styles.css`: the shared layout, font stack, colors, and responsive rules.
 
