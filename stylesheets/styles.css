@@ -104,6 +104,9 @@ small { font-size: 11px; }
 .research-paper .paper-meta { margin: 0; }
 
 .paper-figure { margin: 0; min-width: 0; }
+@media screen and (min-width: 601px) {
+  .work-paper > .paper-figure { margin-top: 40px; }
+}
 .paper-figure > a { display: block; }
 .paper-figure figcaption { margin-top: 8px; font-size: 12px; }
 .research-paper { padding-bottom: 0; border-bottom: 0; }
