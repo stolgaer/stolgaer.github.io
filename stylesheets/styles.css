@@ -98,7 +98,6 @@ small { font-size: 11px; }
 .abstract p { margin-bottom: 0; }
 .work-paper .paper-text > h2,
 .work-paper .paper-meta,
-.work-paper .abstract h3,
 .work-paper .abstract p,
 .research-paper .paper-text > h3,
 .research-paper .paper-meta { margin: 0; }
