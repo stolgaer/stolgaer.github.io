@@ -105,6 +105,7 @@ small { font-size: 11px; }
 .paper-image { width: 100%; height: auto; display: block; }
 
 .publication { padding-bottom: 0; border-bottom: 0; }
+.publication > h2, .publication .paper-meta, .publication details p { margin: 0; }
 .publication:last-child { margin-bottom: 0; }
 .publication summary { color: var(--text); }
 details summary { color: var(--accent); cursor: pointer; font-weight: 500; width: fit-content; }
