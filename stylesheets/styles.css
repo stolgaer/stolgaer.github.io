@@ -216,6 +216,17 @@ details p { margin: 12px 0 0; }
     --menu-shadow: rgb(0 0 0 / 30%);
   }
 
+  /* Only trim the outer background; keep the original portrait pixels. */
+  :root[data-theme="dark"] .profile-photo img {
+    -webkit-mask-image: url("/personal/er_pp_dark_mask.png");
+    mask-image: url("/personal/er_pp_dark_mask.png");
+    mask-mode: alpha;
+    -webkit-mask-size: 100% 100%;
+    mask-size: 100% 100%;
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+  }
+
   :root[data-theme="dark"] .profile-icon {
     filter: brightness(0) invert(1);
     opacity: 0.85;
